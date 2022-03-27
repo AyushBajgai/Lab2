@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/CodingChallenge2/app/src/main/res/layout-land/activity_main.xml" value="0.13977072310405644" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/CodingChallenge2/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.123828125" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/CodingChallenge2/app/src/main/res/layout/activity_main.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/CodingChallenge2/app/src/main/res/layout/linearlayout.xml" value="0.15104166666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/CodingChallenge2/app/src/main/res/layout/relativelayout.xml" value="0.16510416666666666" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/Lab1/app/src/main/res/layout/activity_coding_challenge.xml" value="0.23645833333333333" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/Lab1/app/src/main/res/layout/activity_main.xml" value="0.23645833333333333" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/Lab2/app/src/main/res/layout-land/activity_main.xml" value="0.1" />
